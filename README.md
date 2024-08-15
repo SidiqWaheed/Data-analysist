@@ -31,11 +31,6 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 Include some interesting code/features worked with 
 
-```sql
-SELECT *FROM table1
-WHERE cond = 2;
-```
-
 ### Results/Findings
 
 The analysis results are summarized as follows:
